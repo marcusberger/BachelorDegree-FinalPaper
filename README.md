@@ -1,3 +1,4 @@
 ## ChatBots para o seu dia-a-dia
-  **Chatbots for your Day To Day**
+</br>  
+<small>Chatbots for your Day To Day</small>
 
