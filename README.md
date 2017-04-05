@@ -11,7 +11,9 @@ Considerando este problema nossa proposta de TCC consiste aplicar tecnologia ino
 
 ### Tecnologias utilizadas
 
-escrever...
+Javascript
+Messenger
+Node.js
 
 
 ### Ferramentas utilizadas
