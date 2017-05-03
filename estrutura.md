@@ -29,10 +29,10 @@ Objetivos(geral e especificos)...................0<br />
 
 4. Processamento de Linguagem Natural............xx<br />
 
-5. Revisão Bibliografica.........................xx
-    5.1 Engenharia de Software...................xx
-    5.2 Sistemas
-       5.2.1 Software............................xx
-       5.2.2 Processos de Software...............xx
-       5.2.3 Ciência da Computação...............xx
+5. Revisão Bibliografica.........................xx<br />
+    5.1 Engenharia de Software...................xx<br />
+    5.2 Sistemas.................................xx<br />
+       5.2.1 Software............................xx<br />
+       5.2.2 Processos de Software...............xx<br />
+       5.2.3 Ciência da Computação...............xx<br />
 
