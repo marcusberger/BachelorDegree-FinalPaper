@@ -15,11 +15,13 @@ Introdução.......................................0<br />
 Problema.........................................0<br />
 Objetivos(geral e especificos)...................0<br />
  
-1. que é chatbot.................................xx<br />
+1. O que é chatbot...............................xx<br />
     1.1 Objetivos dos Chatbots...................xx<br />
     1.2 Evolução.................................xx<br />
     1.3 Tipos de chatbots........................xx<br />
     1.4 Como funciona............................xx<br />
+    1.5 Quem pode usar chatbot...................xx<br />
+    1.6 Principais vantagens do chatbot..........xx<br />
 
 2. Inteligencia artficial........................xx<br />
     2.1 Técnicas de inteligencia artificial......xx<br />
