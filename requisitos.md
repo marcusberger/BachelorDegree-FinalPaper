@@ -1,9 +1,23 @@
-# Requisitos
+# 1. Engenharia de software
+
+......
+
+# 2. Análise de Requisitos
+
+Nesse capítulo será apresentado um breve resumo da Análise de Requisitos e abordara alguns conceitos sobre Requisitos do Sistema.
+
+### 2.2 Resumo
+
+Segundo Roger S. Pressman (1995, p. 271) a análise de requisitos é o primeiro passo técnico do processo de engenharia de software. É nesse ponto que uma declaração geral do escopo do software é aprimorada numa especificação concreta que se torna a base para todas as atividades de engenharia de software que se seguirão.
 
 
 
+### 3. Requisitos do Sistema
 
-## Requisitos Funcionais
+Nesse capítulo será abordado alguns conceitos de Requisitos do Sistema. Serão abordados "Requisitos funcionais(RF)", "Requisitos não funcionais(RNF)", "Regras de negócio(RN)" e "Entregáveis do projeto"
+
+
+### 3.1 Requisitos Funcionais
 
 
 1. O sistema deve conter a funcionalidade de responder as perguntas digitadas pelo usuário da forma mais natural possível.
@@ -18,11 +32,22 @@
 
 6. O sistema deve conter a funcionalidade de terminar a conversa com o usuário de maneira natural ao ser humano, com despedidas. 
 
-## Requisitos Não-Funcionais
+### 3.2 Requisitos Não-Funcionais
 
 1. A plataforma de acesso do usuário, tanto computador como smartphones devem estar conectados em um ponto de internet para que possa acessar o sistema
 
 2. 
+
+
+
+### 3.2 Regras de Negócio
+
+.....
+
+
+### 3.3 Entregáveis do Projeto
+
+.....
 
 
 
