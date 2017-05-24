@@ -1,13 +1,13 @@
-#Chatbots
+# Chatbots
 
 Nesse capítulo vamos abordar alguns conceitos dos chatbots, começando pela principal questão: "O que são chatbots", seguindo para a história, tipos, exemplos e principais nomes para o surgimento dos chatbots.
 
-##O que são Chatbots
+## O que são Chatbots
 
 Chatbots são software de PNL, basicamente são aplicações que simulam uma conversação natural entre dois humanos. Normalmente são software que funcionan dentro de outras aplicações de mensagens, como facebook messenger, slack e telegram. Atualmente existem 2 tipos de chatbots, os baseados em regras e os baseados em inteligência artificial que são os mais modernos.
 
 
-##A história dos chatbots
+## A história dos chatbots
 
 Acredito que a ideia inicial dos chatbots vieram da ficção cientifíca com o livro escrito por Isaac Asimov chamado "Eu, Robô", em 1940, que conta uma sére de história sobre robôs inteligentes que tinha capacidade de conversar e pensar. Já em 1950 segundo o site inbot.com.br, Alan Turing propôe uma definição de inteligência artificial: um computador que pode ser considerado "inteligente" se ele puder conversar com uma pessoa atravês de um chat sem que a pessoa perceba se está conversando com um computador ou com outra pessoa. Isso ficou conhecido como o "Teste de Turing". 
 
