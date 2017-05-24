@@ -9,7 +9,7 @@ Chatbots são software de PNL, basicamente são aplicações que simulam uma con
 
 ## A história dos chatbots
 
-Acredito que a ideia inicial dos chatbots vieram da ficção cientifíca com o livro escrito por Isaac Asimov chamado "Eu, Robô", em 1940, que conta uma sére de história sobre robôs inteligentes que tinha capacidade de conversar e pensar. Já em 1950 segundo o site inbot.com.br, Alan Turing propôe uma definição de inteligência artificial: um computador que pode ser considerado "inteligente" se ele puder conversar com uma pessoa atravês de um chat sem que a pessoa perceba se está conversando com um computador ou com outra pessoa. Isso ficou conhecido como o "Teste de Turing". 
+A ideia inicial dos chatbots vieram da ficção cientifíca com o livro escrito por Isaac Asimov chamado "Eu, Robô", em 1940, que conta uma sére de história sobre robôs inteligentes que tinha capacidade de conversar e pensar. Já em 1950 segundo o site inbot.com.br, Alan Turing propôe uma definição de inteligência artificial: um computador que pode ser considerado "inteligente" se ele puder conversar com uma pessoa atravês de um chat sem que a pessoa perceba se está conversando com um computador ou com outra pessoa. Isso ficou conhecido como o "Teste de Turing". 
 
 Já em 1966 Joseph Weizenbaum desenvolve o primeiro Chatbot da história, o Eliza.
 
