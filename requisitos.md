@@ -12,7 +12,9 @@ Segundo Roger S. Pressman (1995, p. 271) a análise de requisitos é o primeiro 
 
 
 
-### 3. Requisitos do Sistema
+### 3. Requisitos de Software
+
+Requisito de software é um aspecto de que o sistema deve conter,
 
 ....
 
