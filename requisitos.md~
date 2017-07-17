@@ -50,7 +50,7 @@ Consistente: Um Software só será consistente quando um requisito não contradi
 
 6. O sistema deve conter a funcionalidade de terminar a conversa com o usuário de maneira natural ao ser humano, com despedidas. 
 
-### 3.3 Requisitos Não-Funcionais
+### 3.2 Requisitos Não-Funcionais
 
 Nele será escolhido qual arquitetura o projeto utilizará, visto
 
