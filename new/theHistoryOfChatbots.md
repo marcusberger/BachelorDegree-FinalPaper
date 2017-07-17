@@ -15,6 +15,8 @@ Essa afirmação foi o ponta pé inicial para o começo do desenvolvimento dos C
 
 ## 2.3 Histórico dos Chatbots
 
+Neste capítulo iremos apresentar os chatbots mais famosos lançados até hoje em ordem cronológica.
+
 ## 2.3.1 1966 Eliza
 Criado por Joseph Weizenbaum entre 1964 e 1966, Eliza foi o primeiro programa de conversação de linguagem natural criado na história. Joseph Weizenbaum desenvolveu o Eliza no laboratório de Inteligência Artificial do MIT.
 
