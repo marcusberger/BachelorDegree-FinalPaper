@@ -1,7 +1,3 @@
-1. PRESSMAN, Roger. Engenharia de Software. 3 ed. São Paulo: MAKRON Books do Brasil Editora Ltda, 1995. 1056 p.
 
-Regras de Negócios
-
-http://www.ateomomento.com.br/o-que-e-regra-de-negocio/ acessado em 25/05/2017 ás 17:00
 
 
