@@ -6,7 +6,6 @@ Resumo
 1.4 Objetivos<br />
 
 2. Revisão Bibliografica<br />
-
 2.1 Sistema de Classificação<br />
 2.2 Aprendizagem de Máquina <br />
 2.3 Aprendizagem Supervisionada<br />
@@ -21,19 +20,17 @@ Resumo
 2.12 Bibliotecas<br />
 2.13 scikit-learning(documentação: scikit-learn.org/2table/)<br />
 
-4. Algoritmo de Classificação<br />
+3. Algoritmo de Classificação<br />
 
 3. Estudo de Viabilidade<br />
 
-4. Documento de Requisitos do Sistema(DRS)<br />
+5. Documento de Requisitos do Sistema(DRS)<br />
+5.1 Requisitos Funcionais<br />
+5.2 Requisitos Não Funcionai<br />
+5.3 Regras de Negócio<br />
+5.4 Entregáveis do Projeto<br />
 
-4.1 Requisitos Funcionais<br />
-4.2 Requisitos Não Funcionai<br />
-4.3 Regras de Negócio<br />
-4.4 Entregáveis do Projeto<br />
-
-5. Desenvolvimento<br />
-
+6. Desenvolvimento<br />
 5.1 Diagrama de casos de uso<br />
 5.2 Diagrama de classes ou modelo entidade <br />
 5.3 relacionamento(MER)<br />
